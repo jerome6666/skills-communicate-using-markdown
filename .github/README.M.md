@@ -1,1 +1,31 @@
-
+---
+2
+title: "My First R Markdown"
+3
+author: "Jerome"
+4
+date: "2026-09-17"
+5
+output: html_document
+6
+---
+7
+ 
+8
+# Introduction
+9
+ 
+10
+This is my first R Markdown document.
+11
+ 
+12
+## R Code
+13
+ 
+14
+```{r}
+15
+summary(cars)
+16
+```
